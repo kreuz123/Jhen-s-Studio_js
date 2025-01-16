@@ -1,4 +1,4 @@
-This is my own project(Lushretreat website).
+This is my own project(Lushretreat website) for the Javascript course at Laurea UAS.
 
 My idea is to create a health coach studio website tailored to the needs of my friend’s studio. The website primarily includes information about her services and events, along with the ability for users to book services and activities.
 
