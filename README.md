@@ -13,5 +13,5 @@ I implemented three JavaScript functionalities:
 3.A feature to fetch and display stories. Although I haven't received the stories from my friend yet, I 
   included this functionality to practice using JavaScript.
 
-  The Lushretreat website link: https://lushretreat.netlify.app/
+  The lushretreat website link: https://lushretreat.netlify.app/
 
